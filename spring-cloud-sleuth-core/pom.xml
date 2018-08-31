@@ -50,16 +50,10 @@
 		<dependency>
 			<groupId>io.projectreactor</groupId>
 			<artifactId>reactor-core</artifactId>
-			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>io.projectreactor.netty</groupId>
 			<artifactId>reactor-netty</artifactId>
-			<optional>true</optional>
-		</dependency>
-		<dependency>
-			<groupId>org.reactivestreams</groupId>
-			<artifactId>reactive-streams</artifactId>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
